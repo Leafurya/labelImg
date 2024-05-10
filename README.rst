@@ -319,6 +319,7 @@ Stargazers over time
 .. image:: https://starchart.cc/tzutalin/labelImg.svg
 
 </details>
+
 #클래스 단축키 업데이트
 
 개발자 이명규
