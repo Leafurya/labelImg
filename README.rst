@@ -47,7 +47,7 @@
 --------------------------------------------------------
 
 labelImg
-=========
+---------
 
 .. image:: /readme/images/labelimg.png
         :target: https://github.com/heartexlabs/label-studio
