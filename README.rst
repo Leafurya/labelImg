@@ -44,6 +44,10 @@
 ^^^^^^^^^
 해당 단축키는 **클래스 수정**시에만 사용할 수 있습니다.
 
+--------------------------------------------------------
+
+labelImg
+=========
 
 .. image:: /readme/images/labelimg.png
         :target: https://github.com/heartexlabs/label-studio
